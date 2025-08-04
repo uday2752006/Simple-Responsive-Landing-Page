@@ -13,11 +13,11 @@ This is a beginner-friendly responsive landing page built with **HTML** and **CS
 -  **Hero Section** – Attractive call-to-action area
 -  **Social Media Links** – Included in the footer
 -  **Flexbox** – Used for layout management
-- 🖥 **Media Queries** – Handle different screen sizes
+-  **Media Queries** – Handle different screen sizes
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
@@ -48,7 +48,7 @@ This is a beginner-friendly responsive landing page built with **HTML** and **CS
 
 ---
 
-## 🌐 Browser Support
+##  Browser Support
 
 Tested on the latest versions of:
 
