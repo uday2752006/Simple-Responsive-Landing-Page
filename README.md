@@ -68,12 +68,6 @@ This project is **open-source** and free to use, modify, and distribute.
 
 [Uday.Devu]
 
----
-
-##  Acknowledgments
-
-- [Font Awesome](https://fontawesome.com) – For icon support  
-- [MDN Web Docs](https://developer.mozilla.org) – For HTML/CSS reference  
-- [W3Schools](https://w3schools.com) – For beginner-friendly tutorials  
+ 
 
 
