@@ -27,7 +27,7 @@ This is a beginner-friendly responsive landing page built with **HTML** and **CS
 ---
 
 
-## 🔧 How to Customize
+##  How to Customize
 
 -  **Change Logo Text**: Edit the text inside `<div class="logo">MyLogo</div>`
 -  **Update Navigation Links**: Modify the `<a>` tags inside the `<ul class="nav-links">`
